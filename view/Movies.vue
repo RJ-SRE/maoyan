@@ -59,82 +59,82 @@ export default {
       showingMovies: [
         {
           id: 1,
-          title: '正在上映电影1',
-          poster: 'https://via.placeholder.com/150x200/e54847/fff?text=上映1',
+          title: '涉过愤怒的海',
+          poster: 'https://p0.meituan.net/movie/283292171619cdfd5b240c8fd093f1eb2453370.jpg',
           score: '9.2',
-          type: '剧情/动作',
-          director: '张导演',
-          actors: '演员A, 演员B, 演员C',
-          date: '2024-12-01',
-          description: '这是一部精彩的电影,讲述了一个动人的故事...'
+          type: '剧情/悬疑',
+          director: '曹保平',
+          actors: '黄渤, 周迅, 祖峰',
+          date: '2024-11-25',
+          description: '一桩离奇的少女死亡案件，牵扯出两个家庭的爱恨情仇。渔民老金在海边发现女儿娜娜的尸体，深信是她的男友李苗苗所为。老金展开了一场跨国寻仇之旅...'
         },
         {
           id: 2,
-          title: '正在上映电影2',
-          poster: 'https://via.placeholder.com/150x200/4a90e2/fff?text=上映2',
+          title: '年会不能停',
+          poster: 'https://p0.meituan.net/movie/9b801671327950f5c2e7d6f8d6d7c2e41800273.jpg',
           score: '8.8',
-          type: '喜剧/爱情',
-          director: '李导演',
-          actors: '演员D, 演员E',
-          date: '2024-11-20',
-          description: '一部轻松幽默的爱情喜剧,让人捧腹大笑...'
+          type: '喜剧/剧情',
+          director: '董润年',
+          actors: '大鹏, 白客, 庄达菲',
+          date: '2024-12-29',
+          description: '一场年会引发的职场风云。普通员工胡建林意外卷入公司裁员风波，通过一系列啼笑皆非的事件，揭开了职场的真相...'
         },
         {
           id: 3,
-          title: '正在上映电影3',
-          poster: 'https://via.placeholder.com/150x200/7ed321/fff?text=上映3',
+          title: '潜行',
+          poster: 'https://p1.meituan.net/movie/e474c5e0e934c9f648e8a5a5c0e1d6e91823424.jpg',
           score: '8.5',
-          type: '科幻/冒险',
-          director: '王导演',
-          actors: '演员F, 演员G, 演员H',
-          date: '2024-11-15',
-          description: '未来世界的冒险之旅,视觉效果震撼...'
+          type: '动作/犯罪',
+          director: '关智耀',
+          actors: '刘德华, 林家栋, 彭于晏',
+          date: '2024-12-29',
+          description: '卧底警察潜入犯罪集团，在黑白两道间游走。面对身份暴露的危机和内心的挣扎，他必须做出艰难的抉择...'
         }
       ],
       upcomingMovies: [
         {
           id: 4,
-          title: '即将上映电影1',
-          poster: 'https://via.placeholder.com/150x200/bd10e0/fff?text=即将1',
-          type: '动作/冒险',
-          director: '赵导演',
-          actors: '演员I, 演员J',
+          title: '三大队',
+          poster: 'https://p0.meituan.net/movie/43a7b21e6e7b6db3b9a5c7e6e4b5e9d21479829.jpg',
+          type: '剧情/犯罪',
+          director: '戴墨',
+          actors: '张译, 李晨, 魏晨',
           date: '2024-12-15',
-          description: '一部充满惊险刺激的动作大片...'
+          description: '改编自真实事件，刑警队长程兵带领三大队追查一起恶性案件，历经十二年的漫长追凶路...'
         },
         {
           id: 5,
-          title: '即将上映电影2',
-          poster: 'https://via.placeholder.com/150x200/50e3c2/fff?text=即将2',
-          type: '爱情/剧情',
-          director: '钱导演',
-          actors: '演员K, 演员L',
+          title: '白日之下',
+          poster: 'https://p1.meituan.net/movie/6b4c8e4c4e4c8e4c4e4c8e4c4e4c8e4c1650000.jpg',
+          type: '剧情/犯罪',
+          director: '简君晋',
+          actors: '余香凝, 姜大卫, 梁仲恒',
           date: '2024-12-20',
-          description: '感人至深的爱情故事,催人泪下...'
+          description: '记者晓琪追踪一宗残疾院舍虐待案件，在调查过程中揭开惊人真相，直面人性的黑暗与光明...'
         }
       ],
       classicMovies: [
         {
           id: 6,
-          title: '经典影片1',
-          poster: 'https://via.placeholder.com/150x200/f5a623/fff?text=经典1',
-          score: '9.5',
-          type: '剧情',
-          director: '经典导演A',
-          actors: '传奇演员A, 传奇演员B',
+          title: '肖申克的救赎',
+          poster: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg',
+          score: '9.7',
+          type: '剧情/犯罪',
+          director: '弗兰克·德拉邦特',
+          actors: '蒂姆·罗宾斯, 摩根·弗里曼',
           date: '1994-10-14',
-          description: '一部影响了几代人的经典之作...'
+          description: '银行家安迪被冤枉杀害妻子及情人入狱后，他不动声色、步步为营地谋划自我拯救并最终成功越狱，重获自由...'
         },
         {
           id: 7,
-          title: '经典影片2',
-          poster: 'https://via.placeholder.com/150x200/d0021b/fff?text=经典2',
+          title: '教父',
+          poster: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg',
           score: '9.3',
-          type: '动作/犯罪',
-          director: '经典导演B',
-          actors: '传奇演员C, 传奇演员D',
+          type: '剧情/犯罪',
+          director: '弗朗西斯·福特·科波拉',
+          actors: '马龙·白兰度, 阿尔·帕西诺',
           date: '1972-03-24',
-          description: '黑帮电影的巅峰之作,永恒的经典...'
+          description: '美国黑帮家族史诗巨作。教父维托的小儿子迈克接手家族事业，在权力、家庭与道义之间艰难抉择...'
         }
       ]
     }
