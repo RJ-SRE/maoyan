@@ -46,16 +46,16 @@ export default {
   data() {
     return {
       hotMovies: [
-        { id: 1, title: '热门电影1', poster: 'https://via.placeholder.com/200x280/e54847/fff?text=电影1', score: '9.2', type: '剧情/动作', date: '2024-12-01' },
-        { id: 2, title: '热门电影2', poster: 'https://via.placeholder.com/200x280/4a90e2/fff?text=电影2', score: '8.8', type: '喜剧/爱情', date: '2024-11-20' },
-        { id: 3, title: '热门电影3', poster: 'https://via.placeholder.com/200x280/7ed321/fff?text=电影3', score: '8.5', type: '科幻/冒险', date: '2024-11-15' },
-        { id: 4, title: '热门电影4', poster: 'https://via.placeholder.com/200x280/f5a623/fff?text=电影4', score: '9.0', type: '动画/家庭', date: '2024-12-05' }
+        { id: 1, title: '涉过愤怒的海', poster: 'https://p0.meituan.net/movie/283292171619cdfd5b240c8fd093f1eb2453370.jpg', score: '9.2', type: '剧情/悬疑', date: '2024-11-25' },
+        { id: 2, title: '年会不能停', poster: 'https://p0.meituan.net/movie/9b801671327950f5c2e7d6f8d6d7c2e41800273.jpg', score: '8.8', type: '喜剧/剧情', date: '2024-12-29' },
+        { id: 3, title: '潜行', poster: 'https://p1.meituan.net/movie/e474c5e0e934c9f648e8a5a5c0e1d6e91823424.jpg', score: '8.5', type: '动作/犯罪', date: '2024-12-29' },
+        { id: 4, title: '金手指', poster: 'https://p0.meituan.net/movie/b607fba7513e7f15eab170aac1e1400d1286774.jpg', score: '9.0', type: '剧情/犯罪', date: '2024-12-30' }
       ],
       upcomingMovies: [
-        { id: 5, title: '即将上映1', poster: 'https://via.placeholder.com/200x280/bd10e0/fff?text=即将1', tag: '12月15日', type: '动作/冒险', date: '2024-12-15' },
-        { id: 6, title: '即将上映2', poster: 'https://via.placeholder.com/200x280/50e3c2/fff?text=即将2', tag: '12月20日', type: '爱情/剧情', date: '2024-12-20' },
-        { id: 7, title: '即将上映3', poster: 'https://via.placeholder.com/200x280/b8e986/fff?text=即将3', tag: '12月25日', type: '科幻/惊悚', date: '2024-12-25' },
-        { id: 8, title: '即将上映4', poster: 'https://via.placeholder.com/200x280/d0021b/fff?text=即将4', tag: '12月30日', type: '动画/喜剧', date: '2024-12-30' }
+        { id: 5, title: '三大队', poster: 'https://p0.meituan.net/movie/43a7b21e6e7b6db3b9a5c7e6e4b5e9d21479829.jpg', tag: '12月15日', type: '剧情/犯罪', date: '2024-12-15' },
+        { id: 6, title: '白日之下', poster: 'https://p1.meituan.net/movie/6b4c8e4c4e4c8e4c4e4c8e4c4e4c8e4c1650000.jpg', tag: '12月20日', type: '剧情/犯罪', date: '2024-12-20' },
+        { id: 7, title: '一闪一闪亮星星', poster: 'https://p0.meituan.net/movie/a0e8a8e8a8e8a8e8a8e8a8e8a8e8a8e81500000.jpg', tag: '12月25日', type: '爱情/奇幻', date: '2024-12-25' },
+        { id: 8, title: '照明商店', poster: 'https://p0.meituan.net/movie/c9d8a8e8a8e8a8e8a8e8a8e8a8e8a8e81400000.jpg', tag: '12月30日', type: '剧情/家庭', date: '2024-12-30' }
       ]
     }
   }
