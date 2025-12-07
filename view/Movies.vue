@@ -60,7 +60,7 @@ export default {
         {
           id: 1,
           title: '涉过愤怒的海',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           score: '9.2',
           type: '剧情/悬疑',
           director: '曹保平',
@@ -71,7 +71,7 @@ export default {
         {
           id: 2,
           title: '年会不能停',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           score: '8.8',
           type: '喜剧/剧情',
           director: '董润年',
@@ -82,7 +82,7 @@ export default {
         {
           id: 3,
           title: '潜行',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           score: '8.5',
           type: '动作/犯罪',
           director: '关智耀',
@@ -95,7 +95,7 @@ export default {
         {
           id: 4,
           title: '三大队',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           type: '剧情/犯罪',
           director: '戴墨',
           actors: '张译, 李晨, 魏晨',
@@ -105,7 +105,7 @@ export default {
         {
           id: 5,
           title: '白日之下',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           type: '剧情/犯罪',
           director: '简君晋',
           actors: '余香凝, 姜大卫, 梁仲恒',
@@ -117,7 +117,7 @@ export default {
         {
           id: 6,
           title: '肖申克的救赎',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           score: '9.7',
           type: '剧情/犯罪',
           director: '弗兰克·德拉邦特',
@@ -128,7 +128,7 @@ export default {
         {
           id: 7,
           title: '教父',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           score: '9.3',
           type: '剧情/犯罪',
           director: '弗朗西斯·福特·科波拉',

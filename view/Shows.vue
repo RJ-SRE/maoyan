@@ -69,7 +69,7 @@ export default {
         {
           id: 1,
           title: '周杰伦演唱会2024',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '国家体育场(鸟巢)',
           time: '2024-12-20 19:30',
           price: 580,
@@ -78,7 +78,7 @@ export default {
         {
           id: 2,
           title: '五月天人生无限公司巡回演唱会',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '工人体育场',
           time: '2024-12-25 19:00',
           price: 480,
@@ -87,7 +87,7 @@ export default {
         {
           id: 3,
           title: '新年交响音乐会',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '国家大剧院',
           time: '2024-12-31 20:00',
           price: 280,
@@ -96,7 +96,7 @@ export default {
         {
           id: 4,
           title: '钢琴独奏会',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '中山音乐堂',
           time: '2024-12-18 19:30',
           price: 180,
@@ -107,7 +107,7 @@ export default {
         {
           id: 5,
           title: '《茶馆》经典话剧',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '首都剧场',
           time: '2024-12-22 19:30',
           price: 280,
@@ -116,7 +116,7 @@ export default {
         {
           id: 6,
           title: '《悲惨世界》音乐剧',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '上海文化广场',
           time: '2024-12-28 19:00',
           price: 380,
@@ -127,7 +127,7 @@ export default {
         {
           id: 7,
           title: '《天鹅湖》芭蕾舞剧',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '国家大剧院',
           time: '2024-12-24 19:30',
           price: 480,
@@ -136,7 +136,7 @@ export default {
         {
           id: 8,
           title: '现代舞专场',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '北京舞蹈学院剧场',
           time: '2024-12-21 19:00',
           price: 180,
@@ -147,7 +147,7 @@ export default {
         {
           id: 9,
           title: 'CBA篮球联赛',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '五棵松体育馆',
           time: '2024-12-19 19:35',
           price: 80,
@@ -156,7 +156,7 @@ export default {
         {
           id: 10,
           title: '羽毛球公开赛',
-          poster: 'maoyan/assets/1.jpg',
+          poster: 'assets/1.jpg',
           venue: '国家体育馆',
           time: '2024-12-26 14:00',
           price: 120,
