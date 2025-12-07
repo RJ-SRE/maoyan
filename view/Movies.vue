@@ -60,7 +60,7 @@ export default {
         {
           id: 1,
           title: '涉过愤怒的海',
-          poster: 'https://p0.meituan.net/movie/283292171619cdfd5b240c8fd093f1eb2453370.jpg',
+          poster: 'maoyan/assets/1.jpg',
           score: '9.2',
           type: '剧情/悬疑',
           director: '曹保平',
@@ -71,7 +71,7 @@ export default {
         {
           id: 2,
           title: '年会不能停',
-          poster: 'https://p0.meituan.net/movie/9b801671327950f5c2e7d6f8d6d7c2e41800273.jpg',
+          poster: 'maoyan/assets/1.jpg',
           score: '8.8',
           type: '喜剧/剧情',
           director: '董润年',
@@ -82,7 +82,7 @@ export default {
         {
           id: 3,
           title: '潜行',
-          poster: 'https://p1.meituan.net/movie/e474c5e0e934c9f648e8a5a5c0e1d6e91823424.jpg',
+          poster: 'maoyan/assets/1.jpg',
           score: '8.5',
           type: '动作/犯罪',
           director: '关智耀',
@@ -95,7 +95,7 @@ export default {
         {
           id: 4,
           title: '三大队',
-          poster: 'https://p0.meituan.net/movie/43a7b21e6e7b6db3b9a5c7e6e4b5e9d21479829.jpg',
+          poster: 'maoyan/assets/1.jpg',
           type: '剧情/犯罪',
           director: '戴墨',
           actors: '张译, 李晨, 魏晨',
@@ -105,7 +105,7 @@ export default {
         {
           id: 5,
           title: '白日之下',
-          poster: 'https://p1.meituan.net/movie/6b4c8e4c4e4c8e4c4e4c8e4c4e4c8e4c1650000.jpg',
+          poster: 'maoyan/assets/1.jpg',
           type: '剧情/犯罪',
           director: '简君晋',
           actors: '余香凝, 姜大卫, 梁仲恒',
@@ -117,7 +117,7 @@ export default {
         {
           id: 6,
           title: '肖申克的救赎',
-          poster: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg',
+          poster: 'maoyan/assets/1.jpg',
           score: '9.7',
           type: '剧情/犯罪',
           director: '弗兰克·德拉邦特',
@@ -128,7 +128,7 @@ export default {
         {
           id: 7,
           title: '教父',
-          poster: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg',
+          poster: 'maoyan/assets/1.jpg',
           score: '9.3',
           type: '剧情/犯罪',
           director: '弗朗西斯·福特·科波拉',
